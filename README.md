@@ -23,5 +23,4 @@ This repository contains the code and resources for a customer churn prediction 
 - **Joblib** — model serialization  
 - **Matplotlib & Seaborn** — data visualization  
 
-## Project Structure
 
